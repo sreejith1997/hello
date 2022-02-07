@@ -8,7 +8,10 @@ pipeline {
         }    
    }
 }
-##Demo
+pipeline {
+    agent any
+    stages {
+
 
 
 
